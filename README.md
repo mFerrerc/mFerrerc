@@ -2,4 +2,4 @@
 
 Presentation in continued progress...
 
-My e-mail📧:: ferrercastella.m@gmail.com
+My e-mail📧 -> ferrercastella.m@gmail.com
