@@ -1,13 +1,11 @@
 # Miguel Ferrer Castellá
 
-**Ingeniero Robótico en formación**
+**Ingeniero Robótico en formación...**
 
-## 🚀 Sobre mí
+## Sobre mí
 Estudiante de último año de Ingeniería Robótica en la Universidad de Alicante con sólidas bases en control de sistemas, simulación, visión por computador e inteligencia artificial. Apasionado por diseñar y desarrollar soluciones robóticas innovadoras que optimicen procesos industriales y de servicio.
 
----
-
-## 🛠️ Habilidades técnicas
+## Habilidades técnicas
 
 **Lenguajes de programación:**  
 C · C++ · Python · RAPID · Linux · Lenguajes PLC  
@@ -18,16 +16,12 @@ ROS · Gazebo · MATLAB/Simulink · OpenCV · YOLOv · Keras · Node-RED · Flow
 **Hardware y plataformas:**  
 ABB IRB 120 · Kinova Gen3 · Arduino · FPGA · MSP430 · Kobuki TurtleBot · Autodesk Inventor · RobotStudio · CoppeliaSim · GitHub · Google Colaboratory · HuggingFace
 
----
-
-## 🎓 Educación
+## Educación
 **Grado en Ingeniería Robótica**  
 _Universidad de Alicante_  
 Septiembre 2021 – Junio 2025 (previsión)
 
----
-
-## 💼 Proyectos destacados
+## Proyectos destacados
 
 - **Teleoperación Kinova Gen3 (7 DOF)**  
   Control remoto de brazo robótico Kinova Gen3 con 7 grados de libertad.  
@@ -47,13 +41,9 @@ Septiembre 2021 – Junio 2025 (previsión)
   - Evaluación de eficiencia logística.  
   - [Ver repositorio](https://github.com/mFerrerc/logpat)
 
----
+## Contacto
 
-## 📫 Contacto
-
-- **Correo:** ferrercastella.m@gmail.com  
-- **LinkedIn:** [linkedin.com/in/miguel-ferrer]()  
+- **Correo:** ferrercastella.m@gmail.com
+- **LinkedIn:** [linkedin.com/in/miguel-ferrer](https://www.linkedin.com/in/miguel-ferrer-castellá-460b80228/)  
 - **GitHub:** [github.com/mferrerc](https://github.com/mferrerc)
 - **Intagram:** [instagram.com/ferreer__](https://instagram.com/ferreer__)
-
----
